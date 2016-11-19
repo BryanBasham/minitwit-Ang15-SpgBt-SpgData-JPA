@@ -1,15 +1,16 @@
 # Build/Maven #
 ###############
-**/target/
-**/node_modules/
+target/
+node_modules/
 
 # Eclipse #
 ###########
 .project
 .classpath
 .settings
-**/bin/
+bin/
 .metadata/
+
 # Spring #
 ############
 **/.springBeans
