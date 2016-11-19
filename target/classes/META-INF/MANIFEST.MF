@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: MiniTwit a'la Spring Boot and AngularJS
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: bryan
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_25
+Implementation-URL: http://github.com/TBD/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Software Alchemy
+
